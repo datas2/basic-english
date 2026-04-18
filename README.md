@@ -1,6 +1,6 @@
 # Basic English Flashcards
 
-A Progressive Web App (PWA) to practice Ogden’s 850 Basic English words using simple flashcards, spaced repetition, and daily study tracking.
+A Progressive Web App (PWA) to practice Ogden’s 850 Basic English words using simple flashcards, spaced repetition, and daily study tracking. To test, use the link [https://datas2.github.io/basic-english/](https://datas2.github.io/basic-english/)
 
 ---
 
